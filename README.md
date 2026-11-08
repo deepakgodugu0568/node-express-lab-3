@@ -298,27 +298,32 @@ The following screenshots demonstrate the API operations and their responses in 
 
 ### 1. GET – Retrieve All Books
 
-![GET All Books](screenshots/get-books.png)
-
-### 2. POST – Create a New Book
-
-![POST Create Book](screenshots/post-book.png)
+![GET All Books](https://github.com/deepakgodugu0568/node-express-lab-3/blob/86a8220aecb94672b0152c29fab6bde0f606b897/screenshots/getallbooks.png)
 
 ### 3. PUT – Update an Existing Book
 
-![PUT Update Book](screenshots/put-book.png)
+![PUT Update Book](https://github.com/deepakgodugu0568/node-express-lab-3/blob/86a8220aecb94672b0152c29fab6bde0f606b897/screenshots/putmethodbookupdate.png)
 
 ### 4. DELETE – Delete a Book
 
-![DELETE Book](screenshots/delete-book.png)
+![DELETE Book](https://github.com/deepakgodugu0568/node-express-lab-3/blob/86a8220aecb94672b0152c29fab6bde0f606b897/screenshots/bookdelete.png)
 
 ### 5. Search, Sorting and Filtering
 
-![Query Parameters](screenshots/query-parameters.png)
+![Query Parameters](https://github.com/deepakgodugu0568/node-express-lab-3/blob/86a8220aecb94672b0152c29fab6bde0f606b897/screenshots/searchqueriesandfiltering.png)
 
 ### 6. Input Validation and Error Handling
 
-![Validation](screenshots/validation.png)
+![Validation](https://github.com/deepakgodugu0568/node-express-lab-3/blob/86a8220aecb94672b0152c29fab6bde0f606b897/screenshots/badresponse.png)
+
+
+### 7. max min price
+![max mmin](https://github.com/deepakgodugu0568/node-express-lab-3/blob/86a8220aecb94672b0152c29fab6bde0f606b897/screenshots/maxprice500min100.png)
+
+### 8. offset filter
+![max mmin](https://github.com/deepakgodugu0568/node-express-lab-3/blob/86a8220aecb94672b0152c29fab6bde0f606b897/screenshots/offsetfilter.png)
+
+
 
 ---
 
